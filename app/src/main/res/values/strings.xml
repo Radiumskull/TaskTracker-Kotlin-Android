@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicConcepts</string>
+    <string name="amount">Amount</string>
+    <string name="tip_tracker">TIP TRACKER</string>
+    <string name="pay">PAY</string>
+    <string name="name">Name</string>
+    <string name="total_rs_5000">Total: Rs 5000</string>
+</resources>
